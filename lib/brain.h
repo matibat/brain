@@ -1,0 +1,6 @@
+// brain.h
+
+
+float** memory;
+
+
